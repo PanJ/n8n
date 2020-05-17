@@ -2,6 +2,7 @@
   "name": "n8n",
   "private": true,
   "homepage": "https://n8n.io",
+  "version": "0.0.1",
   "scripts": {
     "bootstrap": "lerna bootstrap --hoist --no-ci",
     "build": "lerna exec npm run build",
